@@ -8,7 +8,7 @@ const { Client, GatewayIntentBits } = require('discord.js');
 const client = new Client({ intents: [GatewayIntentBits.Guilds, GatewayIntentBits.MessageContent] });
 
 
-require('./guobaguide.js');
+const guobaguide = require('./guobaguide.js');
 
 const commands = [
     {
@@ -71,9 +71,30 @@ client.on('interactionCreate', async interaction => {
 
                 try {
                     const chara = interaction.options.getString('character');
+                    const foundChara = guobaguide.charalist.find(g => g.charaname === chara.toString())
+                    if (foundChara) {
+                        const guideImages = foundChara.imgFiles;
+                        if (guideImages.length === 1) {
+                            interaction.reply(`https://raw.githubusercontent.com/MakoMitsuki/guobot-lite/main/guides/${guideImages[0]}`);
+                        }
+                        else if (guideImages.length > 1) {
 
-                    //const fileArray = guobaguide.find((g) => {g.name === })
-                    await interaction.reply(`Oink ${chara}`)
+                            interaction.reply('beeg');
+                        }
+                        else {
+                            interaction.reply('No guide for this character!');
+                        }
+                        /*const rp = 'hi ';
+                        foundChara.imgFiles.forEach((i) => {
+                            console.log(i)
+                            rp.concat(`https://raw.githubusercontent.com/MakoMitsuki/guobot-lite/main/guides/${i}`)
+                            console.log(rp)
+                        });*/
+                    }
+                    else {
+                        await interaction.reply('Not found!');
+                    }
+                    
                 } catch (error) {
                     await interaction.reply('Error using the guoba command! Try again later!');
                     console.log(error);

@@ -1,15 +1,17 @@
-exports.guobaguide = [
+charalist = [
     {
-        name: 'asta',
+        charaname: 'asta',
         imgFiles: [
             'Asta1.3Guoba.png',
-        ]
+        ],
     },
     {
-        name: 'dhil',
+        charaname: 'dhil',
         imgFiles: [
             'DHILGuobaGraphic.png',
             'DHILLCGuobaGraphic.png',
-        ]
+        ],
     },
 ];
+
+module.exports = { charalist }
