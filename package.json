@@ -1,0 +1,29 @@
+{
+    "name": "guobot-lite",
+    "version": "1.0.0",
+    "description": "Guobot for my personal server until they let Guobot out of the Guobot server",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/MakoMitsuki/guobot-lite.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/MakoMitsuki/guobot-lite/issues"
+    },
+    "homepage": "https://github.com/MakoMitsuki/guobot-lite#readme",
+    "dependencies": {
+      "discord.js": "^14.7.1",
+      "dotenv": "^16.0.3",
+      "node-fetch": "^2.6.9",
+      "node-schedule": "^2.1.1"
+    },
+    "devDependencies": {
+      "nodemon": "^2.0.20"
+    }
+  }
