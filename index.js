@@ -71,25 +71,19 @@ client.on('interactionCreate', async interaction => {
 
                 try {
                     const chara = interaction.options.getString('character');
-                    const foundChara = guobaguide.charalist.find(g => g.charaname === chara.toString())
+                    const foundChara = guobaguide.charalist.find(g => g.charaname === chara.toString().toLowerCase())
                     if (foundChara) {
                         const guideImages = foundChara.imgFiles;
                         if (guideImages.length === 1) {
                             interaction.reply(`https://raw.githubusercontent.com/MakoMitsuki/guobot-lite/main/guides/${guideImages[0]}`);
                         }
                         else if (guideImages.length > 1) {
-
-                            interaction.reply('beeg');
+                            const allGuides = guideImages.map(i => `https://raw.githubusercontent.com/MakoMitsuki/guobot-lite/main/guides/${i}`).join('\n');
+                            interaction.reply(allGuides);
                         }
                         else {
                             interaction.reply('No guide for this character!');
                         }
-                        /*const rp = 'hi ';
-                        foundChara.imgFiles.forEach((i) => {
-                            console.log(i)
-                            rp.concat(`https://raw.githubusercontent.com/MakoMitsuki/guobot-lite/main/guides/${i}`)
-                            console.log(rp)
-                        });*/
                     }
                     else {
                         await interaction.reply('Not found!');
