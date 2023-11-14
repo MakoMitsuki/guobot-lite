@@ -14,7 +14,7 @@ charalist = [
     {
         charaname: 'blade',
         imgFiles: [
-            'BladeGuobaGraphic.png',
+            'BladeGuobagraphic.png',
             'BladeLCGuobaGraphic.png',
         ],
     },
@@ -104,7 +104,7 @@ charalist = [
         ],
     },
     {
-        charaname: 'qinque',
+        charaname: 'qingque',
         imgFiles: [
             'QingqueGuobagraphic.png',
         ],
