@@ -1,5 +1,11 @@
 charalist = [
     {
+        charaname: 'argenti',
+        imgFiles: [
+            'ArgentiGuobaInfographic.png',
+        ],
+    },
+    {
         charaname: 'asta',
         imgFiles: [
             'Asta1.3Guoba.png',
@@ -59,6 +65,12 @@ charalist = [
         charaname: 'guinaifen',
         imgFiles: [
             'GuinaifenInfographicGuoba.png',
+        ],
+    },
+    {
+        charaname: 'hanya',
+        imgFiles: [
+            'HanyaGuobaInfographic.png',
         ],
     },
     {
