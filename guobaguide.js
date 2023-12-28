@@ -128,6 +128,12 @@ charalist = [
         ],
     },
     {
+        charaname: 'ruan mei',
+        imgFiles: [
+            'RuanMeiGuobaInfographic.png',
+        ],
+    },
+    {
         charaname: 'sampo',
         imgFiles: [
             'SampoGuobagraphic.png',
