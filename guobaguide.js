@@ -182,6 +182,12 @@ charalist = [
         ],
     },
     {
+        charaname: 'xueyi',
+        imgFiles: [
+            'XueyiGuobaInfographic.png',
+        ],
+    },
+    {
         charaname: 'yanqing',
         imgFiles: [
             'YanqingGuobagraphic.png',
