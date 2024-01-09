@@ -76,7 +76,7 @@ charalist = [
     {
         charaname: 'himeko',
         imgFiles: [
-            'HimekoGuobaInfographic.png',
+            'himeko-sheet-1.png',
         ],
     },
     {
@@ -166,7 +166,7 @@ charalist = [
     {
         charaname: 'tingyun',
         imgFiles: [
-            'TingyunGuobagraphic.png',
+            'tingyun-1.png',
         ],
     },
     {
