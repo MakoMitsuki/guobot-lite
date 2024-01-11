@@ -74,6 +74,12 @@ charalist = [
         ],
     },
     {
+        charaname: 'herta',
+        imgFiles: [
+            'HertaInfographic.png',
+        ],
+    },
+    {
         charaname: 'himeko',
         imgFiles: [
             'himeko-sheet-1.png',
