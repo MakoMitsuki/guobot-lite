@@ -134,6 +134,18 @@ charalist = [
         ],
     },
     {
+        charaname: 'qingque',
+        imgFiles: [
+            'QingqueGuobagraphic.png',
+        ],
+    },
+    {
+        charaname: 'ratio',
+        imgFiles: [
+            'Ratio-Guoba-Infographic.png',
+        ],
+    },
+    {
         charaname: 'ruan mei',
         imgFiles: [
             'RuanMeiGuobaInfographic.png',
