@@ -64,7 +64,7 @@ charalist = [
     {
         charaname: 'guinaifen',
         imgFiles: [
-            'GuinaifenInfographicGuoba.png',
+            'guinaifen-v1.6.png',
         ],
     },
     {
@@ -100,7 +100,7 @@ charalist = [
     {
         charaname: 'kafka',
         imgFiles: [
-            'KafkaGuobagraphic.png',
+            'kafka-1.6.png',
         ],
     },
     {
