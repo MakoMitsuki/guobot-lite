@@ -9,8 +9,8 @@ const GUILD_ID = process.env.GUILD_ID;
 const rest = new REST({ version: '10' }).setToken(TOKEN);
 const client = new Client({ intents: [GatewayIntentBits.Guilds, GatewayIntentBits.MessageContent] });
 
-const commands = [];
 client.commands = new Collection();
+const commands = [];
 
 const commandsPath = path.join(__dirname, 'commands');
 const commandFiles = fs.readdirSync(commandsPath).filter(file => file.endsWith('.js'));
