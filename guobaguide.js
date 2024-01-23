@@ -1,218 +1,212 @@
 charalist = [
     {
-        charaname: 'argenti',
+        charaname: 'Argenti',
         imgFiles: [
             'ArgentiGuobaInfographic.png',
         ],
     },
     {
-        charaname: 'asta',
+        charaname: 'Asta',
         imgFiles: [
             'Asta1.3Guoba.png',
         ],
     },
     {
-        charaname: 'baliu',
+        charaname: 'Bailu',
         imgFiles: [
             'bailu-sheet.png',
         ],
     },
     {
-        charaname: 'blade',
+        charaname: 'Blade',
         imgFiles: [
             'BladeGuobagraphic.png',
             'BladeLCGuobaGraphic.png',
         ],
     },
     {
-        charaname: 'bronya',
+        charaname: 'Bronya',
         imgFiles: [
             'BronyaGuobagraphic1.2.png',
         ],
     },
     {
-        charaname: 'clara',
+        charaname: 'Clara',
         imgFiles: [
             'ClaraGuobagraphic.png',
         ],
     },
     {
-        charaname: 'dan heng',
+        charaname: 'Dan Heng',
         imgFiles: [
             'DanhengGuobagraphic.png',
         ],
     },
     {
-        charaname: 'dhil',
+        charaname: 'Dan Heng Imbibitor Lunae',
         imgFiles: [
             'DHILGuobaGraphic.png',
             'DHILLCGuobaGraphic.png',
         ],
     },
     {
-        charaname: 'fu xuan',
+        charaname: 'Fu Xuan',
         imgFiles: [
             'FuXuanGuoba.png',
         ],
     },
     {
-        charaname: 'gepard',
+        charaname: 'Gepard',
         imgFiles: [
             'GepardGuobagraphic.png',
         ],
     },
     {
-        charaname: 'guinaifen',
+        charaname: 'Guinaifen',
         imgFiles: [
             'guinaifen-v1.6.png',
         ],
     },
     {
-        charaname: 'hanya',
+        charaname: 'Hanya',
         imgFiles: [
             'HanyaGuobaInfographic.png',
         ],
     },
     {
-        charaname: 'herta',
+        charaname: 'Herta',
         imgFiles: [
             'HertaInfographic.png',
         ],
     },
     {
-        charaname: 'himeko',
+        charaname: 'Himeko',
         imgFiles: [
             'himeko-sheet-1.png',
         ],
     },
     {
-        charaname: 'huohuo',
+        charaname: 'Huohuo',
         imgFiles: [
             'HuohuoGraphicGuoba.png',
         ],
     },
     {
-        charaname: 'jingliu',
+        charaname: 'Jingliu',
         imgFiles: [
             'JingliuGuobaInfographic.png',
         ],
     },
     {
-        charaname: 'kafka',
+        charaname: 'Kafka',
         imgFiles: [
             'kafka-1.6.png',
         ],
     },
     {
-        charaname: 'luka',
+        charaname: 'Luka',
         imgFiles: [
             'LukaGuobagraphic.png',
         ],
     },
     {
-        charaname: 'luocha',
+        charaname: 'Luocha',
         imgFiles: [
             'LuochaGuobagraphic.png',
         ],
     },
     {
-        charaname: 'lynx',
+        charaname: 'Lynx',
         imgFiles: [
             'LynxGuoba.png',
         ],
     },
     {
-        charaname: 'pela',
+        charaname: 'Pela',
         imgFiles: [
             'PelaGuobagraphic.png',
         ],
     },
     {
-        charaname: 'qingque',
+        charaname: 'Qingque',
         imgFiles: [
             'QingqueGuobagraphic.png',
         ],
     },
     {
-        charaname: 'qingque',
-        imgFiles: [
-            'QingqueGuobagraphic.png',
-        ],
-    },
-    {
-        charaname: 'ratio',
+        charaname: 'Dr. Ratio',
         imgFiles: [
             'Ratio-Guoba-Infographic.png',
         ],
     },
     {
-        charaname: 'ruan mei',
+        charaname: 'Ruan Mei',
         imgFiles: [
             'RuanMeiGuobaInfographic.png',
         ],
     },
     {
-        charaname: 'sampo',
+        charaname: 'Sampo',
         imgFiles: [
             'SampoGuobagraphic.png',
         ],
     },
     {
-        charaname: 'seele',
+        charaname: 'Seele',
         imgFiles: [
             'SeeleInfographicGuoba.png',
         ],
     },
     {
-        charaname: 'serval',
+        charaname: 'Serval',
         imgFiles: [
             'ServalInfographic.png',
         ],
     },
     {
-        charaname: 'silver wolf',
+        charaname: 'Silver Wolf',
         imgFiles: [
             'SW1.3Guobagraphic.png',
         ],
     },
     {
-        charaname: 'sushang',
+        charaname: 'Sushang',
         imgFiles: [
             'SushangGuobagraphic.png',
         ],
     },
     {
-        charaname: 'tingyun',
+        charaname: 'Tingyun',
         imgFiles: [
             'tingyun-1.png',
         ],
     },
     {
-        charaname: 'topaz',
+        charaname: 'Topaz',
         imgFiles: [
             'TopazInfographicGuoba.png',
         ],
     },
     {
-        charaname: 'welt',
+        charaname: 'Welt',
         imgFiles: [
             'Welt1.3Guoba.png',
         ],
     },
     {
-        charaname: 'xueyi',
+        charaname: 'Xueyi',
         imgFiles: [
             'XueyiGuobaInfographic.png',
         ],
     },
     {
-        charaname: 'yanqing',
+        charaname: 'Yanqing',
         imgFiles: [
             'YanqingGuobagraphic.png',
         ],
     },
     {
-        charaname: 'yukong',
+        charaname: 'Yukong',
         imgFiles: [
             'YukongGuobagraphic.png',
         ],
