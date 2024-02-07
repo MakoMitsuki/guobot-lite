@@ -18,6 +18,12 @@ charalist = [
         ],
     },
     {
+        charaname: 'Black Swan',
+        imgFiles: [
+            'black-swan.png'
+        ],
+    },
+    {
         charaname: 'Blade',
         imgFiles: [
             'BladeGuobagraphic.png',
