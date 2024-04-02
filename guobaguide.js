@@ -1,5 +1,11 @@
 charalist = [
     {
+        charaname: 'Acheron',
+        imgFiles: [
+            'acheron-2.1.png',
+        ],
+    },
+    {
         charaname: 'Argenti',
         imgFiles: [
             'ArgentiGuobaInfographic.png',
