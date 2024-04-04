@@ -68,6 +68,12 @@ charalist = [
         ],
     },
     {
+        charaname: 'Gallagher',
+        imgFiles: [
+            'gallagher-2.1.png',
+        ],
+    },
+    {
         charaname: 'Gepard',
         imgFiles: [
             'GepardGuobagraphic.png',
