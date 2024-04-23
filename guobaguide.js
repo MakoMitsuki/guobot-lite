@@ -18,6 +18,12 @@ charalist = [
         ],
     },
     {
+        charaname: 'Aventurine',
+        imgFiles: [
+            'aventurine-2.1.png',
+        ],
+    },
+    {
         charaname: 'Bailu',
         imgFiles: [
             'bailu-sheet.png',
