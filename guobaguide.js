@@ -176,6 +176,12 @@ charalist = [
         ],
     },
     {
+        charaname: 'Robin',
+        imgFiles: [
+            'robin-2.2.png',
+        ],
+    },
+    {
         charaname: 'Ruan Mei',
         imgFiles: [
             'RuanMeiGuobaInfographic.png',
