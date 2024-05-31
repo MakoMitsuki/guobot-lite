@@ -43,6 +43,12 @@ charalist = [
         ],
     },
     {
+        charaname: 'Boothill',
+        imgFiles: [
+            'boothill-2.2.png',
+        ],
+    },
+    {
         charaname: 'Bronya',
         imgFiles: [
             'BronyaGuobagraphic1.2.png',
