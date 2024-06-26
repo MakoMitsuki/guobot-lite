@@ -74,6 +74,12 @@ charalist = [
         ],
     },
     {
+        charaname: 'Firefly',
+        imgFiles: [
+            'firefly-2.3.png',
+        ],
+    },
+    {
         charaname: 'Fu Xuan',
         imgFiles: [
             'FuXuanGuoba.png',
