@@ -256,7 +256,7 @@ charalist = [
     {
         charaname: 'Trailblazer (Harmony)',
         imgFiles: [
-            'trailblazer-2.3.png',
+            'trailblazer-2.2.png',
         ],
     },
     {
