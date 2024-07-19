@@ -128,6 +128,12 @@ charalist = [
         ],
     },
     {
+        charaname: 'Jade',
+        imgFiles: [
+            'jade-2.3.png',
+        ],
+    },
+    {
         charaname: 'Jing Yuan',
         imgFiles: [
             'Jing_Yuan_Guoba_Infographic.png',
@@ -245,6 +251,12 @@ charalist = [
         charaname: 'Topaz & Numby',
         imgFiles: [
             'TopazInfographicGuoba.png',
+        ],
+    },
+    {
+        charaname: 'Trailblazer (Harmony)',
+        imgFiles: [
+            'trailblazer-2.3.png',
         ],
     },
     {
