@@ -283,6 +283,12 @@ charalist = [
             'YukongGuobagraphic.png',
         ],
     },
+    {
+        charaname: 'Yunli',
+        imgFiles: [
+            'yunli-2.png',
+        ],
+    },
 ];
 
 module.exports = { charalist }
