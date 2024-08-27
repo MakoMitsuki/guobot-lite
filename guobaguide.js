@@ -140,6 +140,12 @@ charalist = [
         ],
     },
     {
+        charaname: 'Jiaoqiu',
+        imgFiles: [
+            'jiaoqiu.png',
+        ],
+    },
+    {
         charaname: 'Jingliu',
         imgFiles: [
             'JingliuGuobaInfographic.png',
