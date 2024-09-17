@@ -268,7 +268,7 @@ charalist = [
     {
         charaname: 'Topaz & Numby',
         imgFiles: [
-            'TopazInfographicGuoba.png',
+            'topaz-2-5.png',
         ],
     },
     {
