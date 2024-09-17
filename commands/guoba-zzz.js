@@ -20,7 +20,7 @@ module.exports = {
 	async execute(interaction) {
 		try {
             const chara = interaction.options.getString('character');
-            const foundChara = guobaguide.charalist.find(g => g.charaname === chara.toString())
+            const foundChara = zzzguobaguide.zzzcharalist.find(g => g.charaname === chara.toString())
             if (foundChara) {
                 const guideImages = foundChara.imgFiles;
                 if (guideImages.length === 1) {
