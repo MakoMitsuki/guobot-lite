@@ -1,5 +1,11 @@
 zzzcharalist = [
     {
+        charaname: 'Caesar',
+        imgFiles: [
+            'CAESAR.png',
+        ],
+    },
+    {
         charaname: 'Jane Doe',
         imgFiles: [
             'JANE.png',

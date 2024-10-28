@@ -164,6 +164,12 @@ charalist = [
         ],
     },
     {
+        charaname: 'Lingsha',
+        imgFiles: [
+            'lingsha-2-5.png',
+        ],
+    },
+    {
         charaname: 'Luka',
         imgFiles: [
             'LukaGuobagraphic.png',
@@ -203,6 +209,12 @@ charalist = [
         charaname: 'Qingque',
         imgFiles: [
             'QingqueGuobagraphic.png',
+        ],
+    },
+    {
+        charaname: 'Rappa',
+        imgFiles: [
+            'rappa-2-6.png',
         ],
     },
     {
