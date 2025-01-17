@@ -1,9 +1,9 @@
 const { SlashCommandBuilder, SlashCommandStringOption } = require('discord.js');
 const kqmguide = require('../kqmguide.js');
 
-const zzzchoices = [];
-zzzguobaguide.zzzcharalist.forEach(character => {
-    zzzchoices.push(character.charaname);
+const kqmchoices = [];
+kqmguide.kqmcharalist.forEach(character => {
+    kqmchoices.push(character.charaname);
 });
 
 module.exports = {
@@ -47,7 +47,7 @@ module.exports = {
     async autocomplete(interaction) {
         const focusedValue = interaction.options.getFocused();
         //Discord limits autocomplete options to max 25
-		const filtered = zzzchoices.filter(choice => choice.toLowerCase().includes(focusedValue.toLowerCase())).slice(0, 25);
+		const filtered = kqmchoices.filter(choice => choice.toLowerCase().includes(focusedValue.toLowerCase())).slice(0, 25);
 		await interaction.respond(
 			filtered.map(choice => ({ name: choice, value: choice })),
 		);
