@@ -284,6 +284,12 @@ charalist = [
         ],
     },
     {
+        charaname: 'The Herta',
+        imgFiles: [
+            'the-herta-3-0.png',
+        ],
+    },
+    {
         charaname: 'Tingyun',
         imgFiles: [
             'tingyun-1.png',
