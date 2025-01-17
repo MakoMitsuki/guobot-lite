@@ -12,7 +12,7 @@ kqmcharalist = [
         ],
     },
     {
-        charaname: 'gugue',
+        charaname: 'Fugue',
         imgFiles: [
             'fugue.png',
         ],
