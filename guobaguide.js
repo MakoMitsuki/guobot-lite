@@ -6,6 +6,12 @@ charalist = [
         ],
     },
     {
+        charaname: 'Aglaea',
+        imgFiles: [
+            'aglaea-3-0.png',
+        ],
+    },
+    {
         charaname: 'Argenti',
         imgFiles: [
             'ArgentiGuobaInfographic.png',
@@ -194,6 +200,12 @@ charalist = [
         ],
     },
     {
+        charaname: 'Mydei',
+        imgFiles: [
+            'mydei-3-1.png',
+        ],
+    },
+    {
         charaname: 'Misha',
         imgFiles: [
             'MishaGuobaInfographic.png',
@@ -305,6 +317,18 @@ charalist = [
         charaname: 'Trailblazer (Harmony)',
         imgFiles: [
             'trailblazer-2.2.png',
+        ],
+    },
+    {
+        charaname: 'Trailblazer (Remembrance)',
+        imgFiles: [
+            'trailblazer-3-0.webp',
+        ],
+    },
+    {
+        charaname: 'Tribbie',
+        imgFiles: [
+            'tribbie-3-1.png',
         ],
     },
     {

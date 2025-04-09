@@ -1,5 +1,29 @@
 kqmcharalist = [
     {
+        charaname: 'Aglaea',
+        imgFiles: [
+            'Aglaea_-_euphorysm_erisdc.png',
+        ],
+    },
+    {
+        charaname: 'Argenti',
+        imgFiles: [
+            'Argenti_AoE_DPS_-_euphorysm_erisdc.png',
+        ],
+    },
+    {
+        charaname: 'Boothill',
+        imgFiles: [
+            'Boothill_KQM.png',
+        ],
+    },
+    {
+        charaname: 'Castorice',
+        imgFiles: [
+            'castoKQM.webp',
+        ],
+    },
+    {
         charaname: 'Dan Heng Imbibitor Lunae',
         imgFiles: [
             'imbiblunae.png',
@@ -27,7 +51,7 @@ kqmcharalist = [
     {
         charaname: 'Huohuo',
         imgFiles: [
-            'Huohuo_Infographic.png',
+            'Huohuo-KQM.webp',
         ],
     },
     {
@@ -79,9 +103,21 @@ kqmcharalist = [
         ],
     },
     {
+        charaname: 'Mydei',
+        imgFiles: [
+            'Mydei-KQM.webp',
+        ],
+    },
+    {
+        charaname: 'Robin',
+        imgFiles: [
+            'Robin_-_euphorysm_erisdc.png',
+        ],
+    },
+    {
         charaname: 'Silver Wolf',
         imgFiles: [
-            'Silver_Wolf_Infographic.png',
+            'SilverWolf_KQM.png',
         ],
     },
     {
@@ -103,6 +139,12 @@ kqmcharalist = [
         ],
     },
     {
+        charaname: 'Tribbie',
+        imgFiles: [
+            'Tribbie_-_euphorysm_erisdc.png',
+        ],
+    },
+    {
         charaname: 'The Herta',
         imgFiles: [
             'The_Herta_-_euphorysm_erisdc.png',
@@ -112,6 +154,18 @@ kqmcharalist = [
         charaname: 'Topaz & Numby',
         imgFiles: [
             'Topaz-1.png',
+        ],
+    },
+    {
+        charaname: 'Xueyi',
+        imgFiles: [
+            'Xueyi_Hybrid_KQM.webp',
+        ],
+    },
+    {
+        charaname: 'Yunli',
+        imgFiles: [
+            'Yunli_-_euphorysm_erisdc.png',
         ],
     },
 ];
